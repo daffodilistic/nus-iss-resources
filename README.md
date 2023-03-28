@@ -1,4 +1,4 @@
-# List of resources for learning at NUS-ISS
+# List of Resources for Learning at NUS-ISS
 
 ## Table of Contents
 - [Cloud/Managed VPS Providers](#cloudmanaged-vps-providers)
